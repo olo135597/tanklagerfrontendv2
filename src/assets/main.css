@@ -1,0 +1,33 @@
+@import './base.css';
+
+#app {
+
+}
+body {
+  background: var(--color-background-soft);
+}
+header {
+  display: flex;
+  padding: 4px;
+  justify-content: center;
+  background: var(--color-box);
+}
+
+a,
+.green {
+
+}
+
+@media (hover: hover) {
+
+}
+
+@media (min-width: 1024px) {
+  body {
+
+  }
+
+  #app {
+
+  }
+}
